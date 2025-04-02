@@ -1,7 +1,3 @@
-Awesome! Based on the new project scope and the name of your repository, here’s a revised and more tailored `README.md` that reflects your work on AI-driven insights for startup success prediction using scientist profiles:
-
----
-
 # 🧠 Top-scientist-for-Startups
 
 **AI-driven prediction and profiling of top scientists for startup success.**
