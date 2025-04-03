@@ -1,4 +1,4 @@
-# 🧠 Top-scientist-for-Startups
+# 🧠 Top-Startup-Founders
 
 **AI-driven prediction and profiling of top scientists for startup success.**
 
